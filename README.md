@@ -1,20 +1,10 @@
-# PHP Complete CRUD Application
+# Barangay Census Information System with Data Analytics
+![image](https://github.com/user-attachments/assets/e37cad60-45a8-46de-839f-f175017792e9)
+![image](https://github.com/user-attachments/assets/1c554c02-0bfa-46f0-bfdf-9c2b840a385f)
+![image](https://github.com/user-attachments/assets/92da2b44-8efa-4e5a-bdc1-baa0a308a4e7)
+![image](https://github.com/user-attachments/assets/2d057d7e-f2bc-430a-af40-c2e1794baa16)
+![image](https://github.com/user-attachments/assets/9efcdf9e-7ac4-4d20-8e51-3485b00c5ecb)
+![image](https://github.com/user-attachments/assets/9eea6477-b5d6-41ef-b91c-7b8ed972d19f)
 
-### ****Creating the Database Table****
 
-Create a table named *crud* inside your MySQL database using the following code.
 
-```sql
-CREATE TABLE `crud` (
-  `id` int(255) NOT NULL AUTO_INCREMENT,
-  `first_name` varchar(255) NOT NULL,
-  `last_name` varchar(255) NOT NULL,
-  `email` varchar(255) NOT NULL,
-  `gender` varchar(255) NOT NULL,
-  PRIMARY KEY (`id`)
-)
-```
-
-### ****Copy files to htdocs folder****
-
-Download the above files. Create a folder named *crud* inside *htdocs* folder in *xampp* directory. Finally, copy the *crud* folder inside *htdocs* folder. Now, visit [localhost/crud](http://localhost/crud) in your browser and you should see the application.
