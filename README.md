@@ -1,4 +1,5 @@
 # Barangay Census Information System with Data Analytics
+![image](https://github.com/user-attachments/assets/2b26f797-88d9-45de-9f92-7070c9a7e36f)
 ![image](https://github.com/user-attachments/assets/e37cad60-45a8-46de-839f-f175017792e9)
 ![image](https://github.com/user-attachments/assets/1c554c02-0bfa-46f0-bfdf-9c2b840a385f)
 ![image](https://github.com/user-attachments/assets/92da2b44-8efa-4e5a-bdc1-baa0a308a4e7)
